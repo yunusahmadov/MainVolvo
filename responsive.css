@@ -1,0 +1,109 @@
+@media screen and (max-width: 1224px) {
+    .third_left{
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 1059px) {
+    .first_img_cont{
+       width: 660px;
+        margin-top: 50px;
+    }
+    .first_text{
+        width: 540px;
+        text-align: center;
+    }
+    .first_text h2{
+        font-size: 150%;
+    }
+    .first_text p {
+        margin-bottom: 30px;
+    }
+    .second_text{
+        padding-top: 50px;
+    }
+    
+}
+@media screen and (max-width: 1024px) {
+    .third_left p{
+        max-width: 420px;
+        font-size: 80%;
+     }
+     .third_left{
+        width: 100%;
+        margin: 100px 0;
+    }
+       .third_right{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;   
+        margin-bottom: 50px;    
+    }
+    .four_container{
+        top: -380px;
+        flex-wrap: wrap;
+        justify-content: center;
+ 
+    
+    }
+    .five_left{
+        width: 100%;
+        margin: 50px 0;
+
+    }
+    .five_right{
+        width: 100%;
+
+    }
+    .four_cards{
+    max-width: 80%;
+    height: 250px;
+    }
+    .four_cards2{
+        max-width: 80%;
+        height: 250px;
+    }
+    .four_section{
+        height: 120vh;
+        
+    }
+    .four_img{
+        height: 65%;
+    }
+
+}
+ 
+ 
+
+@media screen and (max-width: 785px) {
+    .second_images{
+       flex-wrap: wrap;
+    }
+    .second_card{
+        width: 80%;
+    }
+}
+@media screen and (max-width: 594px) {
+    .to_top_cont{
+        margin-left: 20px;
+        padding: 0;
+        margin-bottom: 50px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 385px) {
+    .header_container h1{
+        font-size:550%;
+    }
+    .header_container h4{
+      font-size: 80%;
+    }
+}
+@media screen and (max-width: 379px) {
+    .footer_right h2{
+        max-width:394px;
+        font-size: 150%;
+        margin-left: 30px;
+        margin-bottom: 20px;
+     }
+}
